@@ -1,0 +1,29 @@
+<style>
+          
+          h1 { 
+            font-variant: inherit;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: oblique;
+            font-size: xx-large;
+            color: rgba(0, 13, 131, 0.995);
+          }
+          h2 { 
+            font-variant: inherit;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: oblique;
+            font-size: large;
+            color: rgb(0, 13, 131);
+          }
+          i {
+            font-variant: normal;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: normal;
+            font-size: medium;
+            color: rgb(0, 13, 131);
+          }
+              body {
+                background-image: url(grace3.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+              }      
+</style>
