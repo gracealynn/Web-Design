@@ -1,0 +1,29 @@
+   
+          h1 { 
+            font-variant: inherit;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: normal;
+            font-size: xx-large;
+            color: rgba(127, 80, 53, 0.995);
+          }
+          h2 { 
+            font-variant: inherit;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: normal;
+            font-size: large;
+            color: rgba(127, 80, 53, 0.995);
+          }
+          i {
+            font-variant: normal;
+            font-family: 'Times New Roman', Times, serif;
+            font-style: normal;
+            font-size: medium;
+            color: rgba(127, 80, 53, 0.995);
+          }
+              body {
+                background-position: center;
+                height: 75vh;
+                background-image: url(pets1.jpg);
+                background-repeat: no-repeat;
+                background-size: cover;
+              }      
